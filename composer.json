@@ -1,0 +1,15 @@
+{
+    "name": "joaog/mini-framework-php",
+    "authors": [
+        {
+            "name": "Joao Granado",
+            "email": "joao.granado4@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\" : "app/"
+        }
+    }
+}
